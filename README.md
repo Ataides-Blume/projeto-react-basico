@@ -24,7 +24,7 @@ Durante o desenvolvimento, os seguintes pontos foram praticados:
 
 - O projeto foi desenvolvido com base em um desafio de React Básico.
 - Utiliza dois componentes principais:
-  - `TextoColorido` (exibindo texto em caixa alta com cor personalizada)
+  - `TextoColorido` (exibindo texto com cor de destaque)
   - `Button` (botão estilizado)
 
 > 💡 **Nota para o professor:**  
