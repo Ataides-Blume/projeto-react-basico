@@ -20,6 +20,17 @@ Durante o desenvolvimento, os seguintes pontos foram praticados:
 
 ---
 
+## ✅ Observações importantes
+
+- O projeto foi desenvolvido com base em um desafio de React Básico.
+- Utiliza dois componentes principais:
+  - `TextoColorido` (exibindo texto em caixa alta com cor personalizada)
+  - `Button` (botão estilizado)
+
+> 💡 **Nota para o professor:**  
+> A **Solicitação 1** com o componente `TextoColorido` está ativa no momento.  
+> A **Solicitação 2**, que exibe o `Button`, encontra-se **comentada** no arquivo `App.jsx`.  
+
 ## 💻 Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
